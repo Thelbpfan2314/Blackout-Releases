@@ -1,4 +1,4 @@
-This application was made with AI!
+This application was made with help from a AI!
 
 
 
