@@ -1,2 +1,7 @@
-*Date = Null
-*News = ""
+*Date = 10/6/2026
+*News = "Blackout v4.0.0 Is Live!"
+*ID = 1
+
+*Countdown-for-next-update = "false"
+*Update-Date = "11/01/2026"
+*Update-Time = "12:00 AM"
